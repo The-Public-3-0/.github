@@ -11,4 +11,4 @@ FREE WIFI built on the efficiency and portability of a blockchain network. Based
 
 📳 Air drop features available soon for ANY connected device.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
